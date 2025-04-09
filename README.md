@@ -1,12 +1,3 @@
-Background:
-I am a manufacturing engineer, not a programmer. However, I like to study the program. In my daily job, I have to deal with different kinds of Excel files. And I know some VBA, so I have created some Marco in Excel to open and read several check list.
-But the excel Marco user form run very slow, because every time when I run the Marco it have to open another big size Excel file as check list database. 
-I decided to abandon my Excel Marco, and 
-restart with the hot language Python. 
-
-Purpose:
-Build a better maintenance, faster check list with Python. 
-
 Basic Feature:
 	1. Checking items in the user interface is load from database.  
 	2. Has version control for every check point modify, new add, del.
